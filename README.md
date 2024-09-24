@@ -5,10 +5,7 @@ Welcome to the Simple Calculator project! This is a straightforward web applicat
 Table of Contents
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+
 
  Features
 - Basic Operations: Perform addition, subtraction, multiplication, and division.
